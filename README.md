@@ -8,6 +8,8 @@ https://www.dgp.toronto.edu/public_user/stam/reality/Research/pdf/GDC03.pdf
 
 https://www.youtube.com/watch?v=alhpH6ECFvQ
 
+https://mikeash.com/pyblog/fluid-simulation-for-dummies.html
+
 
 ## 🖥 Features
 
