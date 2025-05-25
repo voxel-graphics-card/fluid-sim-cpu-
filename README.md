@@ -44,11 +44,16 @@ This project is a real-time interactive **2D fluid dynamics simulation** written
 ### SDL3 Installation
 You can download and install SDL3 from [libsdl.org](https://www.libsdl.org/index.php) or use your package manager.
 
-#some kinda cool pictures
+#### Some kinda cool pictures:
+
+
 ![Screenshot 2025-05-25 165954](https://github.com/user-attachments/assets/e61c0c17-e748-4dad-899d-114ff99c9078)
+
 
 ![Screenshot 2025-05-25 170038](https://github.com/user-attachments/assets/9e7b602f-63a9-4b4c-b1e8-4a894d2df754)
 
+
 ![Screenshot 2025-05-25 170111](https://github.com/user-attachments/assets/eb03a2d7-0845-4e4f-8607-5d0bc334550c)
+
 
 
