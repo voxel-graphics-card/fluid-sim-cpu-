@@ -44,8 +44,9 @@ This project is a real-time interactive **2D fluid dynamics simulation** written
 ### SDL3 Installation
 You can download and install SDL3 from [libsdl.org](https://www.libsdl.org/index.php) or use your package manager.
 
-#### Some kinda cool pictures:
+### Some kinda cool pictures:
 
+   #fluid4.cpp
 
 ![Screenshot 2025-05-25 165954](https://github.com/user-attachments/assets/e61c0c17-e748-4dad-899d-114ff99c9078)
 
@@ -55,5 +56,11 @@ You can download and install SDL3 from [libsdl.org](https://www.libsdl.org/index
 
 ![Screenshot 2025-05-25 170111](https://github.com/user-attachments/assets/eb03a2d7-0845-4e4f-8607-5d0bc334550c)
 
+  #fluid.cpp
 
+![Screenshot 2025-05-23 165315](https://github.com/user-attachments/assets/74c3b8e3-662d-4227-ac49-1ccb8b188bb2)
+
+![fluidsim](https://github.com/user-attachments/assets/bfc80958-7419-4953-8f45-83aaad6f3012)
+
+![64andN+4](https://github.com/user-attachments/assets/a3ed1c41-c156-4d71-b60f-f1599c606c2c)
 
