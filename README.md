@@ -2,6 +2,13 @@
 
 This project is a real-time interactive **2D fluid dynamics simulation** written in **C++** using **SDL3** for rendering. It simulates fluid flow using grid-based methods, pressure projection, and advection — similar in principle to "stable fluids" and visual CFD tools.
 
+# based on :
+
+https://www.dgp.toronto.edu/public_user/stam/reality/Research/pdf/GDC03.pdf
+
+https://www.youtube.com/watch?v=alhpH6ECFvQ
+
+
 ## 🖥 Features
 
 - 🌀 Smoke density advection
